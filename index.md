@@ -14,10 +14,4 @@ title: Example
 - Some event
 - Another exciting event
 - More news
-
-
-
----
-layout: default
-title: Example2
----
+- And more
